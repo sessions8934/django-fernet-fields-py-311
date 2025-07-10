@@ -14,7 +14,7 @@ def get_version():
 
 
 setup(
-    name='django-fernet-fields',
+    name='django-fernet-fields-py-311',
     version=get_version(),
     description="Fernet-encrypted model fields for Django",
     long_description=long_description,
